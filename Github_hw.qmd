@@ -38,6 +38,10 @@ ggplot(iris, aes(x = Sepal.Length, y = Sepal.Width, color = Species)) + # Define
 
 ```
 
+## **Description**
+
+The scatter plot visualizes the relationship between sepal length and sepal width for three species of the **Iris** **dataset:** ***setosa**, **versicolor**, and **virginica***. Each point represents an individual flower, colored according to its species.
+
 ### Key Observations:
 
 1.  **Setosa (red points)**:
